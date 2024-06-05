@@ -1,3 +1,5 @@
-body {background: linear-gradient(#623E25:#A46A43);
-    color: var
+:root{
+    --background: #C58356;
+    --text-color: #000;
+    
 }
