@@ -10,3 +10,10 @@ body{
 .cabecalho{
     background-color:aliceblue;
 }
+.principal{
+    background-image: url(./img[]/casa-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align: center;
+    align-items: center;
+}
