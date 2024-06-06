@@ -1,8 +1,8 @@
 .cabecalho{
     background-color:aliceblue;
+
 }
-.home{
-    background-image: url(./img[]/casa-removebg-preview.png);
-    background-repeat: no-repeat;
-    background-size: contain;
+
+{ margin: 0;
+  padding: 0;
 }
