@@ -4,10 +4,11 @@
     background-repeat: no-repeat;
     background-size: cover;  
 }
-.container2{
+.container-img{
     background-image: url("../img[]/Ellipse\ 1.png");
     height: 700px;
     background-repeat: no-repeat;
     background-size: contain;
+    margin: 0 auto;
     
 }
