@@ -1,4 +1,5 @@
  @import url("./estilo/header.css");
+ @import url("./estilo/sessao.css");
 :root{
     --cor-defundo: #C58356;
     --cor-texto: #000;
@@ -6,9 +7,8 @@
 }
 body{
     background-color: var(--cor-defundo);
+    
 }
-.cabecalho{
-    background-color:aliceblue;
-}
+
 
     
