@@ -8,5 +8,8 @@
 .container-titulo{
     font-size: 50px;
     color: aliceblue;
-    margin-bottom: 70%;
+    margin-bottom: 65%;
+    position:absolute;
+    top: 10px;
+
 }
