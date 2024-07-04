@@ -2,10 +2,11 @@
     background-color:aliceblue;
     display: flex;
     align-items: center;
-    position: relative;
-    
+ 
 }
-
+.container{
+    position: relative;
+}
 .container-titulo{
     font-size: 50px;
     color: aliceblue;
