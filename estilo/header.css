@@ -18,6 +18,11 @@
     font-family: "Irish Grover", system-ui;
 
 }
+.container--dois{
+padding: 20px;
+}
+
+
 .container--tres{
     font-family: "Inter", sans-serif;
     font-size: 15px;
