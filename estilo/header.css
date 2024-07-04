@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
 .cabecalho{
@@ -15,11 +15,12 @@
     color: aliceblue;
     position:absolute;
     top: 15px;
-    font-family: "Irish Grover", system-ui;
+    font-family: "Krona One", sans-serif;
 
 }
 .container--dois{
 padding: 20px;
+
 }
 
 
