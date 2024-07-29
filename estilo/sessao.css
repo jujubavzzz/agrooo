@@ -17,6 +17,11 @@
     
 }
 .container--tres{
+    -cor-defundo: #C58356;
+        --cor-texto: #000;
     
-    background-color: #FFF1E3;
-}
+    }
+    body{
+        background-color: var(--cor-defundo);
+        
+    }
