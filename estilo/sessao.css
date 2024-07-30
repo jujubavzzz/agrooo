@@ -23,5 +23,5 @@
     }
 .container--tres--img{
     width:700px;
-    align-items: center;
+    justify-content: center;
 }
