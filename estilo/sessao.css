@@ -19,7 +19,14 @@
 .container--tres{
     -cor-defundo: #C58356;
         --cor-texto: #000;
-    
+        background-image: url(../img[]/Ellipse\ 1.png);
+        height: 1400px;
+        background-repeat: no-repeat;
+        background-size: cover;  
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
     }
     body{
         background-color: var(--cor-defundo);
