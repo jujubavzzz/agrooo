@@ -20,7 +20,7 @@
     -cor-defundo: #C58356;
         --cor-texto: #000;
     
-       
-    
     }
- 
+.container--tres--img{
+    width: 500px;
+}
