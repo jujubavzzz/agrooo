@@ -36,4 +36,6 @@ font-family: "Krona One", sans-serif;
 
 .container--quatro{
     background-color: aliceblue;
+    display: flex;
+    align-items: center;
 }
