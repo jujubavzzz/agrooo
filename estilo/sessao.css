@@ -26,5 +26,12 @@
 
 .container--quatro--img{
     width: 400px ;
+    height: 1400px;
+    background-repeat: no-repeat;
+    background-size: cover;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 
 }
