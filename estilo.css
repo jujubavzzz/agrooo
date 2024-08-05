@@ -18,14 +18,7 @@ body{
     border-radius: 5px;
     text-decoration: none;
 }
-.container--sexto{
-    display: block;  
-    flex-direction: column;  
-    justify-content: flex-start; 
- }
- .item{
-    width: 40%;  
- }
+
     
     
 

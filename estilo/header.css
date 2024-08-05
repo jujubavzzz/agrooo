@@ -59,4 +59,11 @@ font-family: "Krona One", sans-serif;
 }
 .container--sexto{
     background-color:white ;
-}
+    
+        display: block;  
+        flex-direction: column;  
+        justify-content: flex-start; 
+    }
+     .item{
+        width: 40%;  
+     }
