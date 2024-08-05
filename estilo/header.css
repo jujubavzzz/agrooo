@@ -41,3 +41,11 @@ font-family: "Krona One", sans-serif;
 
 
 }
+.container--botao{
+    background-color: var(--botao-principal);
+    color: var(--cor-texto-principal);
+    padding: 1em;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
