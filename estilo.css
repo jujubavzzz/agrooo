@@ -1,7 +1,7 @@
  @import url("https://fonts.googleapis.com/css2?family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700&family=Krona+One&display=swap");
  @import url("./estilo/header.css");
  @import url("./estilo/sessao.css");
- @import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+ 
 :root{
     --cor-defundo: #C58356;
     --cor-texto: #000;
@@ -17,10 +17,6 @@ body{
     padding: 1em;
     border-radius: 5px;
     text-decoration: none;
-    font-family: "Inter", sans-serif;
-    font-size: 20px;
-    font-family: 'Krona One';
-    background-color: antiquewhite;
-}
+    
 
 
