@@ -18,14 +18,9 @@ body{
     border-radius: 5px;
     text-decoration: none;
 }
-.caixa--container{
-    margin: 0 6em;
-    }
-    .secundario{
-        display: grid;
-        grid-template-columns: 50% 50%;
-        align-items: normal;
-        margin: 0 10em;
+.container{
+    display: block;  
+ }
 
     
     
