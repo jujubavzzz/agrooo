@@ -20,8 +20,12 @@ body{
 }
 .container{
     display: block;  
+    flex-direction: column;  
+    justify-content: flex-start; 
  }
-
+ .item{
+    width: 40%;  
+ }
     
     
 
