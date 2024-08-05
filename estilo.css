@@ -13,8 +13,8 @@ body{
 }
 .container--botao{
     background-color: var(--botao-principal);
-    color: white
-    padding: 2em;
+    color:var(--cor-texto);
+    padding: 1em;
     border-radius: 5px;
     text-decoration: none;
     }
