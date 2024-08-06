@@ -33,11 +33,13 @@
 }
 .container--quatro-titulo{
     font-size: 16px;
+    margin-bottom: 25px;
 }
 
 .container--quatro--descricao{
     margin: 100px;
-    font-size: 14px
+    font-size: 14px;
+    text-align: justify;
 
 }
 .container--quatro--img{
