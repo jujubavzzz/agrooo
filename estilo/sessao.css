@@ -24,6 +24,17 @@
     
 }
 
+.container--quatro{
+    background-color: aliceblue;
+    font-family: "Krona One", sans-serif;
+
+
+
+}
+
+.container--quatro--descricao{
+
+}
 .container--quatro--img{
     width: 700px;
     height: 600px;
