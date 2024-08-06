@@ -59,9 +59,6 @@ font-family: "Krona One", sans-serif;
     flex-direction: column;  
     justify-content: flex-start; 
     }
-.descricao--titulo secundario{
-    font-family: "Inter", sans-serif;
-    font-size: 60px;
-    font-family: 'Krona One';
-    background-color: white;
+.container--card{
+    font-size:30px ;
 }
