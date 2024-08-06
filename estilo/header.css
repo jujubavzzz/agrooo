@@ -31,7 +31,7 @@ font-family: "Krona One", sans-serif;
 
 
 .container--tres{
-    font-family: "Inter", sans-serif;
+    font-family: "bold", sans-serif;
     font-size: 20px;
     font-family: 'Krona One';
     background-color: antiquewhite;
@@ -47,7 +47,7 @@ font-family: "Krona One", sans-serif;
 }
 
 .container--cinco{
-    font-family: "Inter", bold;
+    font-family: "Inter", sans-serif;
     font-size: 40px;
     font-family: 'Krona One';
     background-color: white;
