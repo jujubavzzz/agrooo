@@ -62,9 +62,12 @@
     
 }
 .container--quatro--img{
+    background-image: url(../img[]/Ellipse\ 1.png);
     background-position: right 20px bottom 10px;
     height: 600px;
     display: flex;
+    background-attachment: fixed;
+  background-position: center;
    
 }
 
