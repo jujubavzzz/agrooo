@@ -51,11 +51,15 @@
     height: 355px;
     background-color: #D9D9D9;
     border-radius:40px;
-    display: grid;
-	place-items: center;
-	margin: 0;
-	padding: 0;
-	background: linear-gradient(
+    display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	width: 85vmin;
+	height: 65vmin;
+	margin: 2rem auto;
+	border: 8px solid;
+	
+
     
 }
 .container--quatro--img{
