@@ -51,7 +51,8 @@
     height: 355px;
     background-color: #D9D9D9;
     border-radius:40px;
-    align-items: center;
+    position: relative;
+    
 }
 .container--quatro--img{
     margin-bottom:  20px;
