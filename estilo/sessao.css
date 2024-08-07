@@ -57,9 +57,6 @@
     margin-bottom:  20px;
     height: 600px;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    background-position: center center;
+   background-position: center center;
 }
 
