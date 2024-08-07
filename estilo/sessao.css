@@ -54,9 +54,7 @@
     align-items: center;
 }
 .container--quatro--img{
-    background-image: url(../img[]/Ellipse\ 1.png);
-    align-items: center;
-    width: 700px;
+    margin: 20px;
     height: 600px;
     display: flex;
     justify-content: center;
