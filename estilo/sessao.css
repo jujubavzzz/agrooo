@@ -47,15 +47,13 @@
 
 
 .container--card{
-    width: 171px;
-    height: 55px;
     background-color: #D9D9D9;
     border-radius:40px;
     display: flex;
 	flex-wrap: nowrap;
 	justify-content: space-between;
-	width: 85vmin;
-	height: 65vmin;
+	width: 65vmin;
+	height: 45vmin;
 	margin: 2rem auto;
 	border: 8px solid;
 	
