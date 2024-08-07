@@ -62,9 +62,9 @@
     
 }
 .container--quatro--img{
-    background-position: center bottom;
+    background-position: right 20px bottom 10px;
     height: 600px;
     display: flex;
-   background-position: center center;
+   
 }
 
