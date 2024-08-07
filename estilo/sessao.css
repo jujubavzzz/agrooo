@@ -58,6 +58,6 @@
     align-items: center;
     width: 700px;
     height: 600px;
-    display: block;
+    display: flex;
 }
 
