@@ -54,7 +54,7 @@
     align-items: center;
 }
 .container--quatro--img{
-    margin: 20px;
+    margin-bottom:  20px;
     height: 600px;
     display: flex;
     justify-content: center;
