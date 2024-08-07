@@ -42,14 +42,9 @@
     text-align: justify;
 
 }
-.container--quatro--img{
-    width: 700px;
-    height: 600px;
-    height: 700px;
-    align-items: center;
-    justify-content: center;
 
-}
+
+
 
 .container--card{
     width: 471px;
@@ -58,3 +53,10 @@
     border-radius:40px;
     align-items: center;
 }
+.container--quatro--img{
+    background-image: url(../img[]/Ellipse\ 1.png);
+    align-items: center;
+    width: 700px;
+    height: 600px;
+}
+
